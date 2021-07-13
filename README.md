@@ -1,5 +1,5 @@
 # Mask_Detection
-This project helps is detecting whether a peron is wearing a mask or not using Python.
+This project helps in detecting whether a person is wearing a mask or not using Python.
 Libraries used are:
 -YOLO3 for human detection
 -VIOLA JONES for face detection.
